@@ -11,4 +11,4 @@ wheels/
 .venv
 
 # Kaggle datasets (redistribution prohibited, re-download via kaggle CLI)
-data/
+**/data/
